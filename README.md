@@ -16,7 +16,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&random=true&width=435&lines=Data+Scientist;AI%2FML+Engineer;Data+Analytics;MLOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&random=true&width=1000&lines=Data+Scientist;AI%2FML+Engineer;Data+Analytics;MLOps)](https://git.io/typing-svg)
 
 ###
 
