@@ -68,7 +68,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=VaradVaste&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=VaradVaste&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaradVaste&radius=16&theme=green&area=true&order=5&custom_title=Contribution&bg_color=000000&line=013220&color=980002&point=0FFF50&area_color=2EFF2E&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
