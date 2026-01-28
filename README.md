@@ -20,7 +20,12 @@
 
 ###
 
-<p align="left">I am Data Scientist & working on AIML projects, Data Science applications, and realtime problems. I aim to be a Data Scientist and AI Engineer with proficiency in Python, knowledge of ML and DL, and expertise in TensorFlow and PyTorch. I build and deploy ML/DL solutions. I’m proficient in data analysis (Pandas, NumPy, SQL, PowerBI), data handling, and model training (scikit-learn, Keras).</p>
+<p align="left">I am Data Scientist & working on AIML projects, Data Science applications, and realtime problems. I aim to be a Data Scientist and AI Engineer with proficiency in Python, knowledge of ML and DL, and expertise in TensorFlow and PyTorch. I build and deploy ML/DL solutions. I’m proficient in data analysis (Pandas, NumPy, SQL, PowerBI), data handling, and model training (scikit-learn, Keras).
+Working on Data Science, Machine Learning, and GenAI projects with real-world deployment
+🤝 Open to collaboration on AI tools, Kaggle competitions, and applied ML projects
+📚 Currently learning Deep Learning, Agentic AI, and LLM workflows
+💬 Ask me about Python, ML, dashboards, and AI-powered applications
+✨ Fun fact: I simplify complex programming concepts into clear, logical ideas</p>
 
 ###
 
