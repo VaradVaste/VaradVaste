@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/ARUNAGIRINATHAN-K/ARUNAGIRINATHAN-K/refs/heads/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"  />
-</div>
-
-###
-
 <br clear="both">
 
 <h1 align="center">VARAD VASTE</h1>
